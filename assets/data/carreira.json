@@ -1,0 +1,125 @@
+{
+  "seo": {
+    "title": "Thayna Mateus | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Thayna Mateus, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Thayna Mateus",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Thayna Mateus",
+    "headline": "Web, Dados e Cibersegurança",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Thayna Mateus",
+    "summary": "Tenho interesse em tecnologia, desenvolvimento web e cibersegurança, sempre buscando aprender novas habilidades e evoluir na programação. Participei de projetos voltados para inovação e acessibilidade, desenvolvendo trabalho em equipe, comunicação e criatividade. Meu objetivo é crescer na área da tecnologia, com foco em cibersegurança.",
+    "cvUrl": "assets/images/Curriculo-Thayna-Mateus-2026.docx"
+  },
+  "contacts": [
+    {
+      "label": "thaynamateus90@gmail.com",
+      "url":"mailto:thaynamateus90@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/thaynamateus",
+      "url": "https://www.linkedin.com/in/thaynamateus/"
+    },
+    {
+      "label": "github.com/thaynamateus",
+      "url": "https://github.com/thaynamateus"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedora Junior",
+      "description": "Consolidar fundamentos de desenvolvimento web, lógica de programação e primeiros conceitos de segurança da informação para iniciar na área de tecnologia.",
+      "softSkills": [
+        "Comunicação clara para aprender e trabalhar em equipe.",
+        "Organização para estudar e acompanhar tarefas.",
+        "Curiosidade para investigar problemas e testar soluções."
+      ],
+      "roadmap": [
+        "HTML e CSS",
+        "JavaScript",
+        " Git e GitHub",
+        "Banco de Dados",
+        "Lógica de Programação"
+      ]
+    },
+    {
+      "title": "Analista de Segurança Júnior",
+      "description": "Atuar com monitoramento de sistemas, análise de ameaças e proteção de dados, começando a trabalhar diretamente com cybersegurança.",
+      "softSkills": [
+        "Atenção aos detalhes para identificar riscos e falhas.",
+        "Pensamento crítico para analisar problemas de segurança.",
+        "Trabalho em equipe para responder incidentes e compartilhar informações."
+      ],
+      "roadmap": [
+        "Linux",
+        "Redes de Computadores",
+        "Segurança da Informação",
+        "Pentest Básico",
+        "Monitoramento de Logs"
+      ]
+    },
+    {
+      "title": "Analista de Forense Digital",
+      "description": "Investigar ataques cibernéticos, recuperar evidências digitais e analisar incidentes para auxiliar em investigações tecnológicas.",
+      "softSkills": [
+        "Investigação para analisar evidências digitais.",
+        "Análise crítica para entender ataques e comportamentos suspeitos.",
+        "Escrita técnica para documentar relatórios e laudos."
+      ],
+      "roadmap": [
+        "Forense Computacional",
+        "Recuperação de Dados",
+        "Análise de Malware",
+        "Ferramentas Forenses",
+        "Resposta a Incidentes"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 70
+        },
+        {
+          "name": "React",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 25
+        },
+        {
+          "name": "SQL",
+          "level": 40
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+  "Comunicação",
+  "Documentação",
+  "Criatividade",
+  "Resolução de problemas",
+  "Pensamento lógico"
+],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Iniciante"
+    }
+  ]
+}
